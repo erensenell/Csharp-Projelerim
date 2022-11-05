@@ -1,0 +1,20 @@
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Owner\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+G:\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+G:\Ramazan Coşkun c# ödev\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\x\Desktop\Ramazan Coşkun 126 Sanal Klavye\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\x\Desktop\Ramazan Coşkun 126 Sanal Klavye\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb

@@ -1,0 +1,34 @@
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Documents and Settings\casper\Desktop\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Documents and Settings\casper\Belgelerim\WindowsFormsApplication22(Nurgül Ceylan 12 tb 120 hesap Makinesi)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\casper\Belgelerim\hesap makinesi\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb

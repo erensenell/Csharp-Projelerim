@@ -1,0 +1,32 @@
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\SerqeN\Documents\Alınan Dosyalarım\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\Ödev\Abbasa Atılcak Dosya .D\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\x\Desktop\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\ResolveAssemblyReference.cache
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+E:\12-TB  c# ödevler\ödev_2\Ramazan Coşkun 12-Tb 126\Ramazan Coşkun 12-Tb 126\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache

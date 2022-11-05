@@ -1,0 +1,36 @@
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Users\Bilal\Documents\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\bilal\dersler(BİLG.)\c##\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+L:\Yeni klasör\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Documents and Settings\OGR\Desktop\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Bilal Dalmış\Bilal Dalmış\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\x\Desktop\Bilal Dalmış\Bilal Dalmış\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\hasan\12-TB  c# ödevler\Bilal Dalmış  116 12-TB\Bilal Dalmış\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\hasan\12-TB  c# ödevler\Bilal Dalmış  116 12-TB\Bilal Dalmış\Sayısal Loto Çekilişi\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

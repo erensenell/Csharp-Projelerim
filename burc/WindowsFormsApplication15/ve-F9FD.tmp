@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication15
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string burc;
+            int gun, ay;
+
+            gun = int.Parse (textBox1.Text);
+            ay = int.Parse (textBox2.Text);
+            burc = label4.Text;
+
+            if (gun>=1 && gun<=10 && ay == 1)
+            
+                    label4.Text = "başak";
+            else if (gun>=11 && gun<=20 && ay == 2)
+            
+                    label4.Text = "terazi";
+
+        }
+    }
+}
